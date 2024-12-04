@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcf8cb5d-fefb-48a8-83f6-7e60721fb414" name="更改" comment="新建项目">
+    <list default="true" id="dcf8cb5d-fefb-48a8-83f6-7e60721fb414" name="更改" comment="add README">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCNN/SimpleConvNet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCNN/SimpleConvNet.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCNN/cs231n/.ipynb_checkpoints/layers-checkpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCNN/cs231n/.ipynb_checkpoints/layers-checkpoint__1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCNN/cs231n/.ipynb_checkpoints/layers_todo-checkpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCNN/cs231n/.ipynb_checkpoints/layers_todo-checkpoint__2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCNN/cs231n/classifiers/.ipynb_checkpoints/cnn-checkpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCNN/cs231n/classifiers/.ipynb_checkpoints/cnn-checkpoint__3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCNN/cs231n/classifiers/.ipynb_checkpoints/cnn_todo-checkpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCNN/cs231n/classifiers/.ipynb_checkpoints/cnn_todo-checkpoint__4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCNN/cs231n/classifiers/.ipynb_checkpoints/fc_net-checkpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCNN/cs231n/classifiers/.ipynb_checkpoints/fc_net-checkpoint__5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCNN/cs231n/classifiers/cnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCNN/cs231n/classifiers/cnn__6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCNN/cs231n/image_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCNN/cs231n/image_utils__7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCNN/cs231n/layer_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCNN/cs231n/layer_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCNN/cs231n/layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCNN/cs231n/layers__8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733294202820</updated>
       <workItem from="1733294213004" duration="8836000" />
-      <workItem from="1733303252825" duration="4346000" />
+      <workItem from="1733303252825" duration="5700000" />
     </task>
     <task id="LOCAL-00001" summary="新建项目">
       <option name="closed" value="true" />
@@ -118,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733305114893</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add README">
+      <option name="closed" value="true" />
+      <created>1733318424812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733318424812</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +145,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新建项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="新建项目" />
+    <MESSAGE value="add README" />
+    <option name="LAST_COMMIT_MESSAGE" value="add README" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SimpleConvNet$main.coverage" NAME="main 覆盖结果" MODIFIED="1733303511332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
